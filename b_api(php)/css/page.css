@@ -1,0 +1,30 @@
+.docpadding{
+	padding: 20px 10px 0px 10px;
+	/*文档内页距离*/
+}
+.docintrotext{
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 30px;
+	margin-bottom: 10px
+}
+.copypadding{
+	padding: 10px 0px 0px 0px;
+}
+.toppadding{
+	padding: 50px 0px 0px 0px;
+}
+.copybg{
+	background:rgba(35,40,45,1);
+	font-size: 16px;
+	width:100%;
+}
+.tdn{
+	text-decoration: none;
+}
+.poptextleft{
+	text-align: left;
+}
+.poptextcenter{
+	text-align: center;
+}
